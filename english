@@ -1,0 +1,101 @@
+aboutPMT = 'About Program'
+aboutPMTgtv = 'Version:alpha 0.2'
+aboutPMTpgv = 'PyGithub Version:1.55'
+aboutPMTpyv = 'Last Test Python Version:3.9.1'
+aboutPMTgithub = 'Open GitHub Repository,Please Use githut -po'
+aboutAMT = 'About Author'
+aboutAMTauthor = 'Author:MacWinLin Studio'
+aboutAMTmainD = 'Main Developer:Xinxin2021'
+aboutAMTverN = 'Version Updated Time:May 21, 2022'
+aboutAMTblog = 'Open MWL Studio's Blog,Please Use githut -am'
+githutH = '''You can use these command:
+-a | --author          About Author
+-ao | --author-open    Open MacWinLin Studio's Blog
+-p | --program         About Program
+-po | --program-open   Open GitHub Repository
+-l | --license         See This Project's License
+-c | --copyright       See This Project's Copyright'''
+help = '''You can use these command:
+help      Helper
+githut    About
+config    Config Information
+login     Login GitHub Account
+redata    Rebuild Database
+backup    Backup Database
+create    Create Any
+import    Import Backup
+feedback  Feedback to MWL CGK Team'''
+peToken = 'Please enter token!'
+hToken = 'Please delete the token first.'
+nhToken = 'Please add the token first.'
+configH = '''You can use these command:
+language <language>                   Change GithuT Language
+token [add | remove] <github-token>   Change GitHub Token
+autologin [-y/--yes | -n/--no]        Enable/Disable Autologin
+develop [-y/--yes | -n/--no]          Enable/Disable Develop Mode
+feedback <link>                       Change Feedback Server Link
+ct [-y/--yes | -n/--no]               Clear Token In Exit Program
+update [-y/--yes | -n/--no]           Enable/Disable Auto Check Update
+UPS <link>                            Change Update Server
+debug [-y/--yes | -n/--no]            Enable/Disable Debug Mode'''
+licenseE = 'Could't load license,please confirm you connect the network.'
+accountH = '''You can use these command:
+-u | --user           Set The Account Type To Individual
+-o | --organization   Set The Account Type To Organization'''
+iso = 'The Account Type Is Set To Organization.'
+isu = 'The Account Type Is Set To Individual.'
+terror = 'Could't login,please confirm your token is right!'
+loginS = 'Login successful!'
+loginSU = 'Username:'
+Lname = '.Name:'
+alY = 'Autologin is enable now!'
+alN = 'Autologin is disable now!'
+NalY = 'Please disable autologin first!'
+NalN = 'Please enable autologin first!'
+alogin = 'Autologin started!'
+rdata = 'Removed database file!'
+adata = 'Rebuilded database!'
+errorInfo = 'Error Info:'
+ploginT = 'Please login first!'
+cerror = 'Command error.'
+notc = ' is not a command.'
+createH = '''You can use these command:
+repo <RepoName>    Create GitHub Repository'''
+crepoE = 'Could't create repository.'
+crepoS = 'The repository was created successfully!'
+dmY = 'Develop mode is enable now!'
+dmN = 'Develop mode is disable now!'
+NdmY = 'Please disable develop mode first!'
+NdmN = 'Please enable develop mode first!'
+deleteH = '''You can use these command:
+repo <RepoName>    Delete GitHub Repository'''
+drepoE = 'Could't delete repository.'
+drepoS = 'The repository was deleted successfully!'
+couldtGetFeedbackServerInfo = 'Could't get feedback server information.'
+feedbackServerClose = 'Feedback server is closed.'
+notSupportIPv6 = 'Your computer not support IPv6.'
+feedbackGetAdmin = 'Please enter your feedback username:'
+feedbackGetPassword = 'Please enter your feedback passowrd:'
+couldtLogin = 'Could't login.'
+loginSuccess = 'Login successful.'
+passwordError = 'Password error,please enter right password.'
+userNotFound = 'This user is not exist.'
+serverError = 'Feedback server error.'
+unknownError = 'Unknown error.'
+feedbackType = 'Please select feedback type(bug/warn/debug):'
+feedbackInfo = 'Please enter feedback info(alone enter ":w" to exit):\n'
+couldtFeedback = 'Could't feedback to "'
+feedbackSuccess = 'Feedback successful.'
+blocked = 'Your feedback account was blocked.'
+ctY = 'Clear token is enable now!'
+ctN = 'Clear token is disable now!'
+NctY = 'Please disable clear token first!'
+NctN = 'Please enable clear token first!'
+acuY = 'Auto check update is enable now!'
+acuN = 'Auto check update is disable now!'
+NacuY = 'Please disable auto check update first!'
+NacuN = 'Please enable auto check update first!'
+debugY = 'Debug mode is enable now!'
+debugN = 'Debug mode is disable now!'
+NdebugY = 'Please disable debug mode first!'
+NdebugN = 'Please enable debug mode first!'
