@@ -5,7 +5,7 @@
   English | [简体中文](https://github.com/macwinlin-studio/githut-language/blob/main/README-zh.md)
   
   <a href="https://github.com/macwinlin-studio/GithuT/releases">
-    <img src="https://img.shields.io/github/last-commit/macwinlin-studio/GithuT/a0.2" alt="">
+    <img src="https://img.shields.io/github/last-commit/macwinlin-studio/githut-language" alt="">
   </a>
   <a href="https://github.com/macwinlin-studio/GithuT/releases">
     <img src="https://img.shields.io/github/downloads/macwinlin-studio/GithuT/total" alt="">
